@@ -1,0 +1,25 @@
+GenZ-Career-Aspirations-Analysis/
+│
+├── 📁 Excel_Dashboard/
+│   └── GenZ_Career_Insights_Excel_Dashboard.xlsx
+│
+├── 📁 SQL_Analysis/
+│   └── Career_Queries_and_Solutions.sql
+│   └── SQL_Screenshots/
+│       └── q1_result.png
+│       └── ...
+│
+├── 📁 PowerBI_Dashboards/
+│   └── GenZ_Manager_Aspirations.pbix
+│   └── GenZ_Learning_Aspirations.pbix
+│   └── Dashboard_Screenshots/
+│       └── dashboard1.jpg
+│       └── dashboard2.jpg
+│
+├── 📁 Final_Presentation/
+│   └── CultureHire_GenZ_FinalPresentation.pdf
+│
+├── 📁 Insights_Document/
+│   └── Problem_Recommendations.pdf
+│
+└── 📄 README.md
